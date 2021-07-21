@@ -1,1 +1,1 @@
-# zombie-shooter-stage-1-self-designed-game
+# Zombie-Shooter-stage-1
